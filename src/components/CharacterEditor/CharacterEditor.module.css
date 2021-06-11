@@ -6,6 +6,15 @@
 .maxWidthWrapper {
 }
 
+.decoration {
+  position: fixed;
+  height: 40%;
+  width: 100vw;
+  bottom: 0;
+  background-color: hsl(195deg, 20%, 86%);
+  z-index: -1;
+}
+
 .header {
   padding-bottom: 64px;
   width: 65%;
